@@ -1,0 +1,26 @@
+*{
+    background-color: blueviolet;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif sans-serif;
+
+}
+
+img{
+    height: auto;
+    width: 200px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    
+    margin: 0px 0px 20px 0px;
+}
+
+.put{
+    margin: 10px 0px 0px 0px;
+}
